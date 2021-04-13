@@ -3,9 +3,9 @@ By Bob Ciminera
 
 ## Overview
 
-Amazing Prime Video would like to develop an algorithm to determine which low budget movie being released will be popular so they can purchase the streaming rights at a bargain,  
+Amazing Prime Video plans to develop an algorithm to determine which low budget movie being released will be popular so they can purchase the streaming rights at a bargain,  
 
-In order to have some fun with this, they are sponsoring a hackathon with a clean dataset of movie data and asking participants to predict the poular pictures.
+In order to have some fun with this, they are sponsoring a hackathon and will provide a clean dataset of movie data to participants as input to their programs to predict popular pictures.
 
 A data set for the event has been created from 2 data sources:  scrape of Wikipedia for movies released since 1990 and rating data from the MovieLens website.
 
