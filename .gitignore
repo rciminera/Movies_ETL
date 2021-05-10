@@ -135,9 +135,6 @@ dmypy.json
 # Adding config.py file.
 config.py
 
-# Module 8 datafiles
-wikipedia-movies.json
-ratings.csv
-movies_metadata.csv
+
 
 
