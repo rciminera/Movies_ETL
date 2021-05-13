@@ -20,15 +20,15 @@ The tools used for this analysis were Python, Pandas, Jupyter Notebook, JSON, Re
 
 The following data files were read:  Wikipedia movie json data, Movie Lens rating csv and movie meta datad via Kaggle. 
 
-Using the pandas code: [ETL_function_test.ipynb](https://github.com/rciminera/Movies_ETL/blob/main/ETL_function_test.ipynb)
+Using the pandas code: [ETL_function_test.ipynb](https://github.com/rciminera/Movies_ETL/blob/main/ETL_function_test.ipynb) , 
 
-These files were each extracted into data
+These three files were each extracted into their own data frames:
 
 <img src="https://github.com/rciminera/Movies_ETL/blob/main/screenshots/wiki_movies_df.png" width = "700" >
 
 <img src="https://github.com/rciminera/Movies_ETL/blob/main/screenshots/kaggle_df.png" width = "700" >
 
-<img src="https://github.com/rciminera/Movies_ETL/blob/main/screenshots/ratings_df.png" width = "700" >
+<img src="https://github.com/rciminera/Movies_ETL/blob/main/screenshots/ratings_df.png" width = "500" >
 
 
 ### II. Extract and Transform Wikipedia Data
