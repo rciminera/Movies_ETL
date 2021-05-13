@@ -24,7 +24,7 @@ These files were each extracted into their own dataframes using
 
 ![GitHubLogo](https://github.com/rciminera/Movies_ETL/blob/main/screenshots/wiki_movies_df.png)
 
-<img src="https://github.com/rciminera/Movies_ETL/blob/main/screenshots/kaggle_df.png" width = "600" >
+<img src="https://github.com/rciminera/Movies_ETL/blob/main/screenshots/kaggle_df.png" width = "700" >
 
 ![GitHubLogo](https://github.com/rciminera/Movies_ETL/blob/main/screenshots/ratings_df.png)
 
