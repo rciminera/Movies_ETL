@@ -52,7 +52,7 @@ Using Python, Pandas, the ETL process, and code refactoring, the Kaggle metadata
 The Kaggle metadata dataFrame was then merged with the Wikipedia movies dataFrame to create the movies_df DataFrame. Finally, MovieLens rating data DataFrame was merged with the movies_df DataFrame to create the movies_with_ratings_df.
 
 
-###IV Create the Movie Database in SQL
+### IV. Create the Movie Database in SQL
 
 Using Python, Pandas, the ETL process, code refactoring, and PostgreSQL the movies_df DataFrame and MovieLens rating CSV data were added to a SQL database.
 
@@ -67,3 +67,8 @@ The data from the MovieLens rating CSV file is added to the ratings table in the
 
 
 The elapsed time to add the data to the database is displayed in [ETL_create_database.ipynb file](https://github.com/rciminera/Movies_ETL/blob/main/ETL_create_database.ipynb)
+
+
+### Summary
+
+The ETL process utilized a variety of tools to successfully create datasets for the hacakathon!
